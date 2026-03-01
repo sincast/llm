@@ -5,7 +5,15 @@ authors = ["Gas"]
 repository = "https://github.com/MabMabMabMabMab/llm"
 license = "MIT"
 
+includes = [
+    "LICENSE",
+    "README.md",
+    "pesde.toml",
+    "src/init.luau",
+]
+
 [target]
+lib = "src/init.luau"
 environment = "luau"
 
 [indices]
