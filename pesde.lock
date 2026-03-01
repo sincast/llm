@@ -3,4 +3,4 @@
 format = 2
 name = "mabmabmabmabmab/llm"
 version = "0.1.0"
-target = "luau"
+target = "roblox"
