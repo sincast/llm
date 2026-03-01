@@ -1,0 +1,12 @@
+name = "mabmabmabmabmab/llm"
+version = "0.1.0"
+description = "A compact Maid library with no locals whatsoever."
+authors = ["Gas"]
+repository = "https://github.com/MabMabMabMabMab/llm"
+license = "MIT"
+
+[target]
+environment = "luau"
+
+[indices]
+default = "https://github.com/pesde-pkg/index"
